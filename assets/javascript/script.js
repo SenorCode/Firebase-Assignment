@@ -1,11 +1,6 @@
 $(document).ready(function() {
 var config = {
-  apiKey: "AIzaSyAx1xKqg-KSrPA8kr-v5AJznXDD46UzYuo",
-  authDomain: "fir-hw-b293c.firebaseapp.com",
-  databaseURL: "https://fir-hw-b293c.firebaseio.com",
-  projectId: "fir-hw-b293c",
-  storageBucket: "",
-  messagingSenderId: "873513592060"
+  
 };
 firebase.initializeApp(config);
 
